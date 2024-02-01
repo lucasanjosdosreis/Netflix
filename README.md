@@ -1,5 +1,4 @@
-# Dio-desafio-Meuprojeto-Netflix-2022
-Dio-Entrega-Projeto
+# Dio-desafio-Meuprojeto-Netflix-2024
 #Lucas Anjos dos Reis 
 ## HTML5
 ## CSS3
